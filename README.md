@@ -6,7 +6,7 @@ I am a general software developer and musical artist who likes to focus on video
 
 <hr>
 
-### Stuff I do and have done
+### Stuff I do and have done 🔨
 
 I like to work on whatever project I'm interested about. Recently I've been developing a virtual assistant and a human interface project to
 make humans into musical instruments.
@@ -18,7 +18,7 @@ Learning more C#, Python and general programming along the way.
 
 <hr>
 
-### Skills
+### Skills 💪
 
 My main programming languages are C# and Python. I started with C# to make games with Unity, but recently I've used Python for pretty much everything.
 I also know the basics of HTML, CSS, PHP and JavaScript, mainly because websites use them.
@@ -32,4 +32,7 @@ I've played guitar for a couple years now. I believe music is the supreme art fo
 
 I make software and music. I use C# and Python. I make music with Reaper.
 
-I will add some social links here when I get some content done. Soon™️
+- Check out my <a href="https://www.linkedin.com/in/eemeli-juponaho-1a9199156/">LinkedIn</a> 
+- Find me on <a href="https://twitter.com/ArttuRna">Twitter</a>
+
+I will add more social links here when I get some content done. Soon™️
