@@ -1,10 +1,10 @@
 # Tturna (Big T)
 
-I am a general software developer and musical artist who likes to focus on video games. I have something called a "Vocational upper secondary qualification in information technology", that I got from a vocational college one time.
+I am a general software developer and a hobby musician who likes to focus on video games. I have something called a "Vocational upper secondary qualification in information technology", that I got from a vocational college one time.
 
 <hr>
 
-I like to work on whatever project I'm interested about. Recently I've been developing a virtual assistant and a human interface project to
+I like to work on whatever project I'm interested about. Recently I've been developing a small Unity game and a human interface project to
 make humans into musical instruments.
 
 <!--
@@ -12,15 +12,15 @@ I have worked on several personal video game projects with Unity, but all of the
 a proper game project with a team in late 2021.
 -->
 
-Learning more C#, Python, AI stuff and general programming along the way.
+Learning more C#, C++, Python, AI stuff and general programming along the way.
 
 <hr>
 
 My main programming languages are C# and Python. <!-- I started with C# to make games with Unity, but recently I've used Python for pretty much everything. -->
-I also know the basics of HTML, CSS, PHP and JavaScript, mainly because websites use them.
+I've made websites with HTML, CSS, PHP and JavaScript.
 I've programmed simple Arduino projects with C++ and made small projects with Lua inside a Minecraft mod.
 
-I've played guitar for a couple years now. I believe music is the supreme art form and I want to produce it for mainly myself, but for others to hear as well. I use Reaper as a DAW.
+<!-- I've played guitar for a couple years now. I believe music is the supreme art form and I want to produce it for mainly myself, but for others to hear as well. I use Reaper as a DAW. -->
 
 <hr>
 
@@ -28,9 +28,9 @@ I've played guitar for a couple years now. I believe music is the supreme art fo
 
 ### TL;DR
 
-I make software and music. I use C# and Python. I make music with Reaper.
+I make software with C# and Python. I'm learning C++. <!-- I make music with Reaper. -->
 
 - Check out my <a href="https://www.linkedin.com/in/eemeli-juponaho-1a9199156/">LinkedIn</a> 
-- Find me on <a href="https://twitter.com/ArttuRna">Twitter</a>
+<!-- - Find me on <a href="https://twitter.com/ArttuRna">Twitter</a> -->
 
 I will add more social links here when I get some content done. Soon™️
