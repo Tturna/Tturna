@@ -1,6 +1,6 @@
 # Tturna (Big T)
 
-Game developer and small time software developer. My main languages are C# and Python. I make music as a hobby.
+Game and small time software developer. My main languages are C# and Python. I make music as a hobby.
 Interested in anything IT.
 
 Learning C++, basic AI, web tech and general software dev.
@@ -9,13 +9,12 @@ I am a general software developer and a hobby musician who likes to focus on vid
 
 <hr>
 
-I like to work on whatever project I'm interested about. Recently I've been developing a small Unity game and a human interface project to
+I like to work on whatever project I'm interested about. Recently I've been developing a Unity game and a human interface project to
 make humans into musical instruments.
 -->
 
 <!--
-I have worked on several personal video game projects with Unity, but all of them have frozen at some point. I'm planning to start
-a proper game project with a team in late 2021.
+I have worked on several personal video game projects with Unity.
 
 Learning more C#, C++, Python, AI stuff and general programming along the way.
 
@@ -24,7 +23,7 @@ Learning more C#, C++, Python, AI stuff and general programming along the way.
 
 <!--
 My main programming languages are C# and Python. I started with C# to make games with Unity, but recently I've used Python for pretty much everything.
-I've made websites with HTML, CSS, PHP and JavaScript.
+I've made websites with HTML, CSS, PHP and JavaScript. Learning React.
 I've programmed simple Arduino projects with C++ and made small projects with Lua inside a Minecraft mod.
 -->
 
