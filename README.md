@@ -7,7 +7,7 @@ Interested in anything IT.
 Learning C++, basic AI, web tech and general software dev.
 -->
 
-Learning cyber security currently.
+Learning .NET and cyber security currently.
 
 <!--
 I am a general software developer and a hobby musician who likes to focus on video games. I have something called a "Vocational upper secondary qualification in information technology", that I got from a vocational college one time.
