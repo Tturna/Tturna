@@ -38,14 +38,13 @@ I've programmed simple Arduino projects with C++ and made small projects with Lu
 
 <hr>
 
-[![Top Langs](https://github-readme-stats-beige-gamma-47.vercel.app/api/top-langs/?username=Tturna&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-beige-gamma-47.vercel.app/api/top-langs/?username=Tturna&layout=compact&theme=material-palenight&hide_border=true&hide=shaderlab,hlsl,plsql,roff&card_width=500&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### TL;DR
 
 I make software with C# and Python. I'm learning C++. <!-- I make music with Reaper. -->
 
-- Check out my <a href="https://www.linkedin.com/in/roope-juponaho-1a9199156">LinkedIn</a> 
-<!-- - Find me on <a href="https://twitter.com/ArttuRna">Twitter</a> -->
+- Check out my <a href="https://www.linkedin.com/in/roope-juponaho-1a9199156">LinkedIn</a>
 
 I will add more social links here when I get some content done. Soon™️
