@@ -38,7 +38,7 @@ I've programmed simple Arduino projects with C++ and made small projects with Lu
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tturna&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-beige-gamma-47.vercel.app/api/top-langs/?username=Tturna&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### TL;DR
