@@ -1,6 +1,6 @@
 # Tturna (Big T)
 
-Game and small time software developer. My main languages are C# and Python. I make music as a hobby.
+ICT Engineering student. Game and small time software developer. My main languages are C# and Python. I make music as a hobby.
 Interested in anything IT.
 
 <!--
