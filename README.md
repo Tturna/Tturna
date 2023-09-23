@@ -1,7 +1,8 @@
-# Tturna (Big T)
+# Tturna (AKA Erik, Roope, Big T)
 
 ICT Engineering student. Game and small time software developer. My main languages are C# and Python. I make music as a hobby.
 Interested in anything IT.
+Working on a 2D Unity game.
 
 <!--
 Learning C++, basic AI, web tech and general software dev.
