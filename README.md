@@ -10,7 +10,7 @@ Learning C++, basic AI, web tech and general software dev.
 
 I ~~don't~~ know what I'm doing.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,py,django,arduino,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,py,django,react,js,arduino)](https://skillicons.dev)
 
 <!--
 I am a general software developer and a hobby musician who likes to focus on video games. I have something called a "Vocational upper secondary qualification in information technology", that I got from a vocational college one time.
