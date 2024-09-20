@@ -2,7 +2,7 @@
 
 ICT Engineering student. Game and small time software developer. My main languages are C# and Python. I make music as a hobby.
 Interested in anything IT.
-Working on a 2D Unity game.
+Currently learning everything about everything.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,py,django,js,react,arduino,windows,linux)](https://skillicons.dev)
 
