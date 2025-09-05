@@ -1,6 +1,6 @@
 # Tturna (AKA Erik, Roope)
 
-ICT Engineering student. Game and small time software developer. My main languages are C# and Python.
+ICT Engineering student. Game and software developer. My main languages are C# and Python.
 Interested in anything IT.
 Currently learning everything about everything.
 
